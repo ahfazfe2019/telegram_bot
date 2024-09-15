@@ -1,0 +1,4 @@
+MongoDB
+username and Password : ahfaz114
+Database Name : sample_mflix
+mongodb://atlas-sql-66db0a3e7dd4f97c7747744d-nbb8m.a.query.mongodb.net/sample_mflix?ssl=true&authSource=admin
